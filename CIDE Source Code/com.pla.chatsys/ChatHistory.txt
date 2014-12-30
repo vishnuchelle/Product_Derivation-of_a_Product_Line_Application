@@ -1,0 +1,29 @@
+Chat Client e7: hi Sent on-08/29/2014 08:27:30<br>
+Chat Client e7: hello Sent on-08/29/2014 08:27:36<br>
+Chat Client e7: hello Sent on-08/29/2014 08:27:51<br>
+Chat Client e7: Hello Sent on-08/29/2014 10:17:53<br>
+Chat Client e7: Hello Sent on-08/29/2014 10:19:38<br>
+Chat Client e7: Hi Sent on-08/29/2014 11:26:23<br>
+Chat Client 0c: Hi Sent on-09/04/2014 12:15:37<br>
+Bot: Hi! I am Bot! Sent on-09/04/2014 12:15:37<br>
+Chat Client 0c: Hi Sent on-09/04/2014 14:54:15<br>
+Bot: Hi! I am Bot! Sent on-09/04/2014 14:54:15<br>
+Chat Client e7: Hii Sent on-09/04/2014 15:23:11<br>
+Chat Client e7: Hi Sent on-09/04/2014 15:23:17<br>
+Bot: Hi! I am Bot! Sent on-09/04/2014 15:23:17<br>
+Chat Client e7: Help Sent on-09/04/2014 15:24:30<br>
+Bot: Yes! How can I help you? Sent on-09/04/2014 15:24:30<br>
+Chat Client 0c: hello Sent on-09/10/2014 15:39:13<br>
+Chat Client e7: Hi Sent on-09/10/2014 15:39:24<br>
+Bot: Hi! I am Bot! Sent on-09/10/2014 15:39:24<br>
+Chat Client e7: Hi Sent on-09/10/2014 18:40:20<br>
+Bot: Hi! I am Bot! Sent on-09/10/2014 18:40:20<br>
+Chat Client e7: hi Sent on-09/10/2014 18:49:33<br>
+Chat Client e7: hi Sent on-09/10/2014 18:49:45<br>
+Chat Client 0c: Hi Sent on-09/10/2014 19:26:28<br>
+Bot: Hi! I am Bot! Sent on-09/10/2014 19:26:28<br>
+Chat Client 0c: hel[p Sent on-09/10/2014 19:26:42<br>
+Chat Client 0c: help Sent on-09/10/2014 19:26:48<br>
+Bot: Yes! How can I help you? Sent on-09/10/2014 19:26:52<br>
+Chat Client 0c: Hi Sent on-11/14/2014 14:42:42<br>
+Bot: Hi! I am Bot! Sent on-11/14/2014 14:42:42<br>

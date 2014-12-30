@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys
+END
+IGameListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IGameListener.java
+END
+ITTT.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ITTT.java
+END
+IImageSent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IImageSent.java
+END
+ISendImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ISendImage.java
+END
+ITempletRetriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ITempletRetriver.java
+END
+IToolBarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IToolBarEvent.java
+END
+ITempletSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ITempletSend.java
+END
+IChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IChat.java
+END
+ISendFileListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ISendFileListener.java
+END
+ITTTListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ITTTListener.java
+END
+IHistoryRetrive.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IHistoryRetrive.java
+END
+IGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IGame.java
+END
+IFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IFileWriter.java
+END
+IPrintEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IPrintEvent.java
+END
+ISendTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/ISendTemplet.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/Activator.java
+END
+IChatListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IChatListener.java
+END
+IToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IToolBar.java
+END
+IFileSentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/isr/projects/!svn/ver/10113/archstudio4/branches/umkc/branches/varun/com.pla.chatsys/src/com/pla/chatsys/IFileSentListener.java
+END
