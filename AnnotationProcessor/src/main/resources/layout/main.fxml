@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="207.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+    </padding>
+   <children>
+       <BorderPane prefHeight="32.0" prefWidth="600.0">
+           <left>
+               <Label prefHeight="16.0" prefWidth="82.0" text="Source:" BorderPane.alignment="CENTER" />
+           </left>
+           <center>
+               <TextField fx:id="srcTextField" editable="false" prefHeight="26.0" prefWidth="474.0" BorderPane.alignment="CENTER">
+                   <BorderPane.margin>
+                       <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                   </BorderPane.margin>
+               </TextField>
+           </center>
+           <right>
+               <Button fx:id="srcChooser" mnemonicParsing="false" text="..." BorderPane.alignment="CENTER" />
+           </right>
+       </BorderPane>
+       <BorderPane layoutX="15.0" layoutY="51.0" prefHeight="32.0" prefWidth="600.0">
+           <center>
+               <TextField fx:id="archTextField" editable="false" BorderPane.alignment="CENTER">
+                   <BorderPane.margin>
+                       <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                   </BorderPane.margin>
+               </TextField>
+           </center>
+           <left>
+               <Label prefHeight="16.0" prefWidth="82.0" text="Architecture:" BorderPane.alignment="CENTER" />
+           </left>
+           <right>
+               <Button fx:id="archChooser" mnemonicParsing="false" text="..." BorderPane.alignment="CENTER" />
+           </right>
+       </BorderPane>
+       <BorderPane layoutX="15.0" layoutY="15.0" prefHeight="32.0" prefWidth="600.0">
+           <center>
+               <TextField fx:id="dstTextField" editable="false" BorderPane.alignment="CENTER">
+                   <BorderPane.margin>
+                       <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                   </BorderPane.margin>
+               </TextField>
+           </center>
+           <left>
+               <Label prefHeight="16.0" prefWidth="82.0" text="Destination:" BorderPane.alignment="CENTER" />
+           </left>
+           <right>
+               <Button fx:id="dstChooser" mnemonicParsing="false" text="..." BorderPane.alignment="CENTER" />
+           </right>
+       </BorderPane>
+       <GridPane fx:id="features" prefHeight="90.0" prefWidth="600.0">
+           <columnConstraints>
+               <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+           </columnConstraints>
+           <rowConstraints>
+               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               <RowConstraints />
+           </rowConstraints>
+          <children>
+              <CheckBox fx:id="botCB" mnemonicParsing="false" selected="true" text="Bot" />
+              <CheckBox fx:id="gameCB" layoutX="10.0" layoutY="16.0" mnemonicParsing="false" selected="true" text="Game" GridPane.columnIndex="1" />
+              <CheckBox fx:id="chatHistCB" layoutX="305.0" layoutY="16.0" mnemonicParsing="false" selected="true" text="Chat history" GridPane.columnIndex="2" />
+              <CheckBox fx:id="templateCB" mnemonicParsing="false" selected="true" text="Template" GridPane.rowIndex="1" />
+              <CheckBox fx:id="fileShareCB" mnemonicParsing="false" selected="true" text="File sharing" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+              <CheckBox fx:id="imgShareCB" mnemonicParsing="false" selected="true" text="Image sharing" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+              <Button fx:id="processBtn" mnemonicParsing="false" text="Process" GridPane.columnSpan="3" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.rowSpan="2" />
+          </children>
+       </GridPane>
+   </children>
+</VBox>
